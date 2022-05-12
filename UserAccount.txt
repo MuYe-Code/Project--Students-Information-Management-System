@@ -1,0 +1,3 @@
+liuyifei        123456          0       
+Biden           111111          1       
+Taylor          123456          0       
